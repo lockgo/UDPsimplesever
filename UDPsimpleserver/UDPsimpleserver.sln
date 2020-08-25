@@ -1,0 +1,17 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPsimpleserver", "UDPsimpleserver\UDPsimpleserver.csproj", "{EF7DF868-3649-4FF4-BA86-EFD6AC7E6AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF7DF868-3649-4FF4-BA86-EFD6AC7E6AC8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EF7DF868-3649-4FF4-BA86-EFD6AC7E6AC8}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
